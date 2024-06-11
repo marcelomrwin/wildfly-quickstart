@@ -1339,7 +1339,7 @@ endif::useHelmChartDir[]
 ifndef::useHelmChartDir[]
 [source,yaml]
 ----
-Unresolved directive in ../shared-doc/helm-deploy-project.adoc - include::/home/runner/work/quickstart/quickstart/logging/charts/helm.yaml[]
+Unresolved directive in ../shared-doc/helm-deploy-project.adoc - include::/home/runner/work/wildfly-quickstart/wildfly-quickstart/logging/charts/helm.yaml[]
 ----
 endif::useHelmChartDir[]
 endif::requires-http-route[]
